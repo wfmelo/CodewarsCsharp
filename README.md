@@ -1,1 +1,1 @@
-Solving Codewars katas in csharp
+Solving Codewars katas in csharp.
