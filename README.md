@@ -1,1 +1,1 @@
-"# CodewarsCsharp"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/wfmelo/CodewarsCsharp.git git push -u origin main
+Solving Codewars katas in csharp

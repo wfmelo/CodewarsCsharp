@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodwarsCsharp\\CodwarsCsharp.csproj": {}
+    "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodewarsTestConsole\\CodewarsTestConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodwarsCsharp\\CodwarsCsharp.csproj": {
+    "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodewarsTestConsole\\CodewarsTestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodwarsCsharp\\CodwarsCsharp.csproj",
-        "projectName": "CodwarsCsharp",
-        "projectPath": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodwarsCsharp\\CodwarsCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodewarsTestConsole\\CodewarsTestConsole.csproj",
+        "projectName": "CodewarsTestConsole",
+        "projectPath": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodewarsTestConsole\\CodewarsTestConsole.csproj",
         "packagesPath": "C:\\Users\\twelve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodwarsCsharp\\obj\\",
+        "outputPath": "C:\\Users\\twelve\\misc\\study\\codewars\\CodwarsCsharp\\CodewarsTestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\twelve\\AppData\\Roaming\\NuGet\\NuGet.Config",

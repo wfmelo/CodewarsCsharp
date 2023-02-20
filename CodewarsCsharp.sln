@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodwarsCsharp", "CodwarsCsharp\CodwarsCsharp.csproj", "{9F980B9F-4A01-47D8-A6E1-D74BA8894C11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Katas", "Katas\Katas.csproj", "{7A30528D-181C-4709-A814-BEDFAC25124F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas", "Katas\Katas.csproj", "{7A30528D-181C-4709-A814-BEDFAC25124F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KataTests", "KataTests\KataTests.csproj", "{1EAB81BC-8268-4BF7-861D-8E7F7C1C43A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataTests", "KataTests\KataTests.csproj", "{1EAB81BC-8268-4BF7-861D-8E7F7C1C43A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodewarsTestConsole", "CodewarsTestConsole\CodewarsTestConsole.csproj", "{2AF272A8-1DF9-407D-B4CC-1D9BA398DC39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F980B9F-4A01-47D8-A6E1-D74BA8894C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F980B9F-4A01-47D8-A6E1-D74BA8894C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F980B9F-4A01-47D8-A6E1-D74BA8894C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F980B9F-4A01-47D8-A6E1-D74BA8894C11}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A30528D-181C-4709-A814-BEDFAC25124F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7A30528D-181C-4709-A814-BEDFAC25124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A30528D-181C-4709-A814-BEDFAC25124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{1EAB81BC-8268-4BF7-861D-8E7F7C1C43A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EAB81BC-8268-4BF7-861D-8E7F7C1C43A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EAB81BC-8268-4BF7-861D-8E7F7C1C43A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF272A8-1DF9-407D-B4CC-1D9BA398DC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF272A8-1DF9-407D-B4CC-1D9BA398DC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF272A8-1DF9-407D-B4CC-1D9BA398DC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF272A8-1DF9-407D-B4CC-1D9BA398DC39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
